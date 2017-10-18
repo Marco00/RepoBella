@@ -1,4 +1,5 @@
-<B> <BIG> Prova README </BIG> </B> <HR>
+<B> <BIG> Prova README </BIG> </B>
+=============
 <BODY>
 Questa è una prova di creazione file README <BR>
 <UL>

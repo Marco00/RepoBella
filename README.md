@@ -6,6 +6,4 @@ Questa è una prova di creazione file README <BR>
   <LI> ciao </LI>
   </UL>
   </BODY>
-IDE:
-===
-  <BODY> NetBeans </BODY>
+

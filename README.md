@@ -1,4 +1,4 @@
-<HEAD><TITLE> Prova README </TITLE></HEAD> <BR> <BR>
+<B> Prova README </B>
 <BODY>
 Questa è una prova di creazione file README <BR>
 <UL>

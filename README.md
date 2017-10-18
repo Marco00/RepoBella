@@ -1,4 +1,4 @@
-<B> <FONT SIZE=1> Prova README </FONT> </B> <HR>
+<B> Prova README </B> <HR>
 <BODY>
 Questa è una prova di creazione file README <BR>
 <UL>
